@@ -35,6 +35,11 @@ const root = {
             text:
               "[x] buy groceries\n[ ] walk the dog\n[x] learn react\n[x] clone macOS finder app\n[ ] hit the gym",
           },
+          "PR.txt": {
+            type: "textfile",
+            text:
+              "This is a test PR",
+          },
           "HTML5-template.txt": {
             type: "textfile",
             text:
